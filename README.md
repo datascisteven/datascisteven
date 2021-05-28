@@ -6,22 +6,21 @@ As a recent graduate of the Flatiron Online Immersive Data Science Bootcamp, the
 
 Being academically oriented and being a teacher at my very core, I am always on the quest for better explanations, insights, and solutions, and always looking to learn by teaching or imparting any knowledge or experience for someone else in the data science journey.  In the same vein, I will always remain thirsty for knowledge as a lifetime learner, always seeking feedback on how to become a better practitioner. 
 
-## 😄  Pronouns: He/Him
+- 😄  **Pronouns:** He/Him
 
-## 🔭  I’m currently working on expanding my portfolio in computer vision and NLP. 
+- 🔭  I’m **currently working** on expanding my portfolio in computer vision and NLP. 
 
-## 🌱  I’m currently learning about GANs and more advanced NLP techniques.
+- 🌱  I’m **currently learning** about GANs and more advanced NLP techniques.
 
-## 👯  I’m looking to collaborate on developing maps or visualizations, but really anything.
+- 👯  I’m **looking to collaborate** on developing maps or visualizations, but really anything.
 
 My side hobby is definitely making interesting and beautiful visualizations to capture the audience and hook them into the story.  My father was a cartographer, and he used to make exquisite maps when he was teaching back in Hong Kong.  It is where I developed my love of maps.
 
-## 🤔  I’m looking for help with deploying models into an Android and iOS app.
+- 🤔  I’m **looking for help** with deploying models into an Android and iOS app.
 
-## 📫  How to reach me: <!--   <a href="https://datascisteven.com"><img src="https://img.shields.io/badge/-datascisteven.com-21759B?style=flat-square&amp;labelColor=21759B&amp;logo=Wordpress&amp;link=https://datascisteven.com" alt="Website Badge"></a>  --><a href="https://medium.com/@datascisteven"><img src="https://img.shields.io/badge/-@datascisteven-000000?style=flat-square&amp;labelColor=000000&amp;logo=Medium&amp;link=https://medium.com/@serbis" alt="Medium Badge"></a>   <a href="https://www.linkedin.com/in/datascisteven/"><img src="https://img.shields.io/badge/-@datascisteven-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/datascisteven/" alt="LinkedIn Badge"></a>   <a href="https://www.github.com/datascisteven/"><img src="https://img.shields.io/badge/-@datascisteven-181717?style=flat-square&amp;labelColor=181717&amp;logo=Github&amp;link=https://www.github.com/datascisteven/" alt="Github Badge"></a>
+- 💬  **Ask me** about anything.
 
-## 💬 Ask me about anything.
+- ⚡  **Fun fact:** My experience as an immigrant double minority in the United States shades how I viewed everything in my life, interactions, decisions, etc.
 
-## ⚡ Fun fact: My experience as an immigrant double minority in the United States shades how I viewed everything in my life, interactions, decisions, etc.
-
-I am currently updating my ReadME page...
+## 📫  How to reach me: 
+<p><!--   <a href="https://datascisteven.com"><img src="https://img.shields.io/badge/-datascisteven.com-21759B?style=flat-square&amp;labelColor=21759B&amp;logo=Wordpress&amp;link=https://datascisteven.com" alt="Website Badge"></a>  --><a href="https://medium.com/@datascisteven"><img src="https://img.shields.io/badge/-@datascisteven-000000?style=flat-square&amp;labelColor=000000&amp;logo=Medium&amp;link=https://medium.com/@serbis" alt="Medium Badge"></a>   <a href="https://www.linkedin.com/in/datascisteven/"><img src="https://img.shields.io/badge/-@datascisteven-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/datascisteven/" alt="LinkedIn Badge"></a>   <a href="https://www.github.com/datascisteven/"><img src="https://img.shields.io/badge/-@datascisteven-181717?style=flat-square&amp;labelColor=181717&amp;logo=Github&amp;link=https://www.github.com/datascisteven/" alt="Github Badge"></a></p>
