@@ -10,14 +10,6 @@ My experience at the Flatiron Online Immersive Data Science Bootcamp has only ta
 
 As such, I am always seeking for feedback on how to be a better practitioner, as well as seeking opportunities to challenge myself to improve on existing and to learn new skills as a data scientist. I am always on the quest for better explanations, insights, and solutions with the goal of being able to impart that knowledge for someone else in the same journey by getting involved in hackathons, conferences, and such.
 
-- 😄  **Pronouns:** He/Him
-
-- 🔭  I’m **currently working** on expanding my portfolio in computer vision and NLP. 
-
-- 🌱  I’m **currently learning** about GANs and more advanced NLP techniques.
-
-- 💬  **Ask me** about anything.
-
 
 ## 📫  How to reach me: 
 <p><!--   <a href="https://datascisteven.com"><img src="https://img.shields.io/badge/-datascisteven.com-21759B?style=flat-square&amp;labelColor=21759B&amp;logo=Wordpress&amp;link=https://datascisteven.com" alt="Website Badge"></a>  --><a href="https://medium.com/@datascisteven"><img src="https://img.shields.io/badge/-@datascisteven-000000?style=flat-square&amp;labelColor=000000&amp;logo=Medium&amp;link=https://medium.com/@serbis" alt="Medium Badge"></a>   <a href="https://www.linkedin.com/in/datascisteven/"><img src="https://img.shields.io/badge/-@datascisteven-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/datascisteven/" alt="LinkedIn Badge"></a>   <a href="https://www.github.com/datascisteven/"><img src="https://img.shields.io/badge/-@datascisteven-181717?style=flat-square&amp;labelColor=181717&amp;logo=Github&amp;link=https://www.github.com/datascisteven/" alt="Github Badge"></a></p>
