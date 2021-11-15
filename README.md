@@ -12,8 +12,8 @@
 
 ## Projects (Mostly) Completed:
 
-1.  **Esteem Equalithon:** SMS Appointment Reminder Webapp
-	- _Technologies:_   Python, Twilio, Flask, Redis, Celery, Heroku
+1.  **Esteem Equalithon:** [SMS Appointment Reminder Webapp](https://bit.ly/)
+	- _Technologies:_  Python, Twilio, Flask, Redis, Celery, Heroku
 	- _Status:_  Flask webapp deployed on local development
 	- _Stretch Goals:_  Use of Docker and Heroku for Deployment
 2.  **DataKind DataDive Event:** Broadband Access Project with CDAC at UChicago
@@ -24,23 +24,23 @@
 	- _Technologies:_  Python, Numpy, Pandas, Matplotlib, Seaborn, Tensorflow, Scikit-learn, Pillow, PyTorch
 	- _Status:_ 
 	- _Stretch Goals:_ 
-4.  Melanoma Image Classification
+4.  **Melanoma Image Classification**
 	- _Technologies:_  Python, Numpy, Pandas, Tensorflow, Keras, Scikit-learn, OpenCV, Scikit-image, Matplotlib, Seaborn
 	- _Status:_  Flask App deployed on local development, ResNet50 model at 91% and 80% holdout accuracy
 	- _Stretch Goals:_  Using PyTorch instead of Tensorflow and develop Flutter implementation
-5.  Hate Tweet Detection
+5.  **Hate Tweet Detection**
 	- _Technologies:_   Python, Numpy, Pandas, Tensorflow, Keras, Scikit-learn, NLTK, Matplotlib, Seaborn
 	- _Status:_  Machine Learning Model deployed on Heroku
 	- _Stretch Goals:_ Explore additional NLP tools like SpaCy 
-6.  Taiwanese Credit Card Default Prediction
+6.  **Taiwanese Credit Card Default Prediction**
 	- _Technologies:_   Python, Numpy, Pandas, Scikit-learn, SciPy, Tableau, Plotly
 	- _Status:_   
 	- _Stretch Goals:_ 
-7.  The Masked Politic
+7.  **The Masked Politic**
 	- _Technologies:_   Python, Numpy, Pandas, Geopandas, Scikit-learn
 	- _Status:_
 	- _Stretch Goals:_  
-8.  King County Housing Price Prediction
+8.  **King County Housing Price Prediction**
 	- _Technologies:_  Python, Numpy, Pandas, Geopandas
 	- _Status:_  
 	- _Stretch Goals:_
@@ -77,40 +77,12 @@
                     
 ### Used Almost on Daily Basis:
 
-<img src='skills/jupyter96.png'>
-<img src='skills/vscode96.png'>
-<img src='skills/pandas96.png'>
-<img src='skills/numpy96.png'>
-<img src='skills/python96.png'>
-<img src='skills/github96.png'>
-<img src='skills/git96.png'>
-<img src='skills/slack96.png'>
-<img src='skills/word96.png'>
-<img src='skills/excel96.png'>
+<img src='skills/jupyter96.png'> <img src='skills/vscode96.png'> <img src='skills/pandas96.png'> <img src='skills/numpy96.png'> <img src='skills/python96.png'> <img src='skills/github96.png'> <img src='skills/git96.png'> <img src='skills/slack96.png'> <img src='skills/word96.png'> <img src='skills/excel9r6.png'>
 
 ### Used on a Regular Basis:
 
-<img src='skills/scikit-learn96.png'>
-<img src='skills/colab96.png'>
-<img src='skills/keras96.png'>
-<img src='skills/tensorflow96.png'>
-<img src='skills/tableau96.png'>
-<img src='skills/matplotlib96.png'>
-<img src='skills/seaborn96.png'>
-<img src='skills/mysql96.png'>
-<img src='skills/sql96.png'>
-<img src='skills/postgresql96.png'>
-<img src='skills/powerpoint96.png'>
+<img src='skills/scikit-learn96.png'> <img src='skills/colab96.png'> <img src='skills/keras96.png'> <img src='skills/tensorflow96.png'> <img src='skills/tableau96.png'> <img src='skills/matplotlib96.png'> <img src='skills/seaborn96.png'> <img src='skills/mysql96.png'> <img src='skills/sql96.png'> <img src='skills/postgresql96.png'> <img src='skills/powerpoint96.png'>
 
 ### Used on Occasional Basis:
 
-<img src='skills/opencv96.png'>
-<img src='skills/nltk96.png'>
-<img src='skills/html96.png'>
-<img src='skills/css96.png'>
-<img src='skills/heroku96.png'>
-<img src='skills/flask96.png'>
-<img src='skills/scipy96.png'>
-<img src='skills/celery96.png'>
-<img src='skills/redis96.png'>
-<img src='skills/geopandas96.png'>
+<img src='skills/opencv96.png'> <img src='skills/nltk96.png'> <img src='skills/html96.png'> <img src='skills/css96.png'> <img src='skills/heroku96.png'> <img src='skills/flask96.png'> <img src='skills/scipy96.png'> <img src='skills/celery96.png'> <img src='skills/redis96.png'> <img src='skills/geopandas96.png'>
