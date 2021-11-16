@@ -12,42 +12,42 @@
 
 ## Projects (Mostly) Completed:
 
-1.  **Esteem Equalithon:** [SMS Appointment Reminder Webapp](https://bit.ly/)
+1.  [**Esteem Equalithon:**](https://bit.ly/CC-) SMS Appointment Reminder Webapp
 	- _Technologies:_  Python, Twilio, Flask, Redis, Celery, Heroku
-	- _Status:_  Flask webapp deployed on local development
-	- _Stretch Goals:_  Use of Docker and Heroku for Deployment
-2.  **DataKind DataDive Event:** Broadband Access Project with CDAC at UChicago
+	- _Status:_  Flask webapp deployed on local development server
+	- _Future Plans:_  Use of Docker and Heroku for Deployment
+2.  [**DataKind DataDive Event:**](https://bit.ly/DataKind_CDAC) Broadband Access Project with CDAC at UChicago
 	- _Technologies:_   Python, Numpy, Pandas, Geopandas, Tableau, SciPy, Scikit-learn, Matplotlib
 	- _Status:_  Created Tableau visualizations and pipeline for data processing
-	- _Stretch Goals:_ None
-3.  **Flatiron Hackathon:** Flictionary
+	- _Future Plans:_ None
+3.  [**Flatiron Hackathon:**](https://bit.ly/Flictionary) Flictionary
 	- _Technologies:_  Python, Numpy, Pandas, Matplotlib, Seaborn, Tensorflow, Scikit-learn, Pillow, PyTorch
-	- _Status:_ 
-	- _Stretch Goals:_ 
-4.  **Melanoma Image Classification**
+	- _Status:_ Gaming app deployed on local development server
+	- _Future Plans:_ 
+4.  [**Melanoma Image Classification**](https://bit.ly/Melanoma-Detector)
 	- _Technologies:_  Python, Numpy, Pandas, Tensorflow, Keras, Scikit-learn, OpenCV, Scikit-image, Matplotlib, Seaborn
 	- _Status:_  Flask App deployed on local development, ResNet50 model at 91% and 80% holdout accuracy
-	- _Stretch Goals:_  Using PyTorch instead of Tensorflow and develop Flutter implementation
-5.  **Hate Tweet Detection**
+	- _Future Plans:_  Using PyTorch instead of Tensorflow and develop Flutter implementation
+5.  [**Hate Tweet Detection**](https://bit.ly/Hate-Tweet-Detector)
 	- _Technologies:_   Python, Numpy, Pandas, Tensorflow, Keras, Scikit-learn, NLTK, Matplotlib, Seaborn
 	- _Status:_  Machine Learning Model deployed on Heroku
-	- _Stretch Goals:_ Explore additional NLP tools like SpaCy 
-6.  **Taiwanese Credit Card Default Prediction**
+	- _Future Plans:_ Explore additional NLP tools like SpaCy 
+6.  [**Credit Card Default Prediction**](https://bit.ly/CC-Default-Segmnetation)
 	- _Technologies:_   Python, Numpy, Pandas, Scikit-learn, SciPy, Tableau, Plotly
 	- _Status:_   
-	- _Stretch Goals:_ 
+	- _Future Plans:_ Finish customer segmentation model
 7.  **The Masked Politic**
 	- _Technologies:_   Python, Numpy, Pandas, Geopandas, Scikit-learn
-	- _Status:_
-	- _Stretch Goals:_  
+	- _Status:_ 
+	- _Future Plans:_ 
 8.  **King County Housing Price Prediction**
 	- _Technologies:_  Python, Numpy, Pandas, Geopandas
 	- _Status:_  
-	- _Stretch Goals:_
+	- _Future Plans:_
 9.  Movie Analysis
 	- _Technologies:_ 
 	- _Status:_
-	- _Stretch Goals:_
+	- _Future Plans:_
 
 
 ## Blog Posts Published:
@@ -64,13 +64,13 @@
 
 [![Email Badge](https://img.shields.io/static/v1?label=Email&message=stevenyan@uchicago.edu&color=8b0000&style=for-the-badge&logo=GMail&logoColor=white&logoWidth=30)](mailto:datascisteven@gmail.com)
 
-[![Github Badge](https://img.shields.io/static/v1?label=GitHub&message=@datascisteven&color=9966CC&style=for-the-badge&logo=GitHub&logoWidth=30)](https://www.github.com/datascisteven)
+[![Github Badge](https://img.shields.io/static/v1?label=GitHub&message=@datascisteven&color=9966CC&style=for-the-badge&logo=GitHub&logoWidth=30)](https://bit.ly/stevens_github)
 
-[![LinkedIn Badge](https://img.shields.io/static/v1?label=LinkedIn&message=@datascisteven&color=0A66C2&style=for-the-badge&logo=LinkedIn&logoWidth=30)](https://www.linkedin.com/in/datascisteven)
+[![LinkedIn Badge](https://img.shields.io/static/v1?label=LinkedIn&message=@datascisteven&color=0A66C2&style=for-the-badge&logo=LinkedIn&logoWidth=30)](https://bit.ly/stevens_linkedin)
 
-[![Medium Badge](https://img.shields.io/static/v1?label=Medium&message=@datascisteven&color=003366&style=for-the-badge&logo=Medium&logoWidth=30)](https://datascisteven.medium.com)
+[![Medium Badge](https://img.shields.io/static/v1?label=Medium&message=@datascisteven&color=003366&style=for-the-badge&logo=Medium&logoWidth=30)](https://bit.ly/stevens_medium)
 
-[![Portfolio Badge](https://img.shields.io/static/v1?label=Website&message=datascisteven.github.io&color=FF6600&style=for-the-badge&logo=GoogleChrome&logoColor=white&logoWidth=30)](https://datascisteven.github.io)
+[![Portfolio Badge](https://img.shields.io/static/v1?label=Website&message=datascisteven.github.io&color=FF6600&style=for-the-badge&logo=GoogleChrome&logoColor=white&logoWidth=30)](https://bit.ly/stevens_portfolio)
 
 
 ## Technologies in Use:
