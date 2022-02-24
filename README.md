@@ -23,17 +23,17 @@
 	- _Status:_  Contributed Tableau visualizations for EDA and pipeline for data processing
 	- _Future Plans:_  None
 
-5.  🧛🏽‍♂️  [**Melanoma Image Classification with Flask Implementation**](https://bit.ly/Melanoma-Detector)
+4.  🧛🏽‍♂️ [**Melanoma Image Classification with Flask Implementation**](https://bit.ly/Melanoma-Detector)
 	- _Technologies:_  Python, Numpy, Pandas, Tensorflow, Keras, Scikit-learn, OpenCV, Scikit-image, Matplotlib, Seaborn
 	- _Status:_  Flask App deployed on local development, ResNet50 model at 91% and 80% holdout accuracy
 	- _Future Plans:_  Conduct modeling process using PyTorch instead of Tensorflow and develop mobile app using Flutter
 
-6.  🐥 [**Hate Tweet Detection with Flask Implementation**](https://bit.ly/Hate-Tweet-Detector)
+5.  🐥 [**Hate Tweet Detection with Flask Implementation**](https://bit.ly/Hate-Tweet-Detector)
 	- _Technologies:_   Python, Numpy, Pandas, Tensorflow, Keras, Scikit-learn, NLTK, Matplotlib, Seaborn
 	- _Status:_  Machine Learning Model deployed on Heroku
 	- _Future Plans:_  Explore additional NLP tools like SpaCy
 
-7.  💳 [**Credit Card Default Prediction and Customer Segmentation**](https://bit.ly/CC-Default-Segmentation)
+6.  💳 [**Credit Card Default Prediction and Customer Segmentation**](https://bit.ly/CC-Default-Segmentation)
 	- _Technologies:_   Python, Numpy, Pandas, Scikit-learn, SciPy, Tableau, Plotly
 	- _Status:_  Developed classification model with 86% accuracy
 	- _Future Plans:_  Finish customer segmentation model
