@@ -13,12 +13,12 @@
 
 1.  🛰 **Omdena Machine Learning Intern:** Object Detection and Image Segmentation on Satellite Images of Schools in Sudan
 
-2.  🕺 [**Essteem Equalithon:**](https://bit.ly/SPEII) Inclusion Impact Index Dashboard developed by StartOut and Socos Lab
+2.  🕺 [**Essteem Equalithon:**](https://bit.ly/StartOut-Dashboard) Inclusion Impact Index Dashboard developed by StartOut and Socos Lab
 	- _Technologies:_  Python, Numpy, Pandas, Tableau
 	- _Status:_  Developed timeline feature for dashboard and proposed some visualization changes
 	- _Future Plans:_  Continuing work at internship with StartOut
 
-3.  📡 [**DataKind DataDive:**](https://bit.ly/DataKind_CDAC) Broadband Access Project with CDAC at UChicago
+3.  📡 [**DataKind DataDive:**](https://bit.ly/DataKind-CDAC) Broadband Access Project with CDAC at UChicago
 	- _Technologies:_   Python, Numpy, Pandas, Geopandas, Tableau, SciPy, Scikit-learn, Matplotlib
 	- _Status:_  Contributed Tableau visualizations for EDA and pipeline for data processing
 	- _Future Plans:_  None
@@ -40,18 +40,18 @@
 
 
 
-## **Medium Blogs:**
+## ✒️ **Medium Blogs:**
 
-- [How To Create Your Own Hate Tweet Detector](https://bit.ly/Hate-Tweet-Blog)
-- [How To Show Your Minority Class Much-Needed TLC](https://bit.ly/Minority-Class-Blog)
-- [To RegEx or Not To RegEx? (Part I)](https://bit.ly/RegEx-Blog-1)
-- [To RegEx or Not To RegEx? (Part II)](https://bit.ly/RegEx-Blog-2)
-- [The Lesser of Two Evils in Machine Learning](https://bit.ly/Bias-Variance-Blog)
-- [How To Enhance Your Visualizations for Exploratory Data Analysis Using Seaborn and FacetGrid](https://bit.ly/FacetGrid-Blog)
+- 😇 [How To Create Your Own Hate Tweet Detector](https://bit.ly/Hate-Tweet-Blog)
+- 🥰 [How To Show Your Minority Class Much-Needed TLC](https://bit.ly/Minority-Class-Blog)
+- 🥸 [To RegEx or Not To RegEx? (Part I)](https://bit.ly/RegEx-Blog-1)
+- 😱 [To RegEx or Not To RegEx? (Part II)](https://bit.ly/RegEx-Blog-2)
+- 🥶 [The Lesser of Two Evils in Machine Learning](https://bit.ly/Bias-Variance-Blog)
+- 🤥 [How To Enhance Your Visualizations for Exploratory Data Analysis Using Seaborn and FacetGrid](https://bit.ly/FacetGrid-Blog)
 
 
 
-## **Contact Info:**
+## 📬 **Contact Info:**
 
 [![Email Badge](https://img.shields.io/static/v1?label=Email&message=datascisteven@gmail.com&color=8b0000&style=for-the-badge&logo=GMail&logoColor=white&logoWidth=30)](mailto:datascisteven@gmail.com)
 
@@ -64,16 +64,19 @@
 [![Portfolio Badge](https://img.shields.io/static/v1?label=Website&message=datascisteven.github.io&color=FF6600&style=for-the-badge&logo=GoogleChrome&logoColor=white&logoWidth=30)](https://bit.ly/stevens_portfolio)
 
 
-## **Technologies in Use:**
+## 🖥 **Technology Stack:**
                     
-### **Used Almost on Daily Basis:**
+### ⏰ **Used Daily:**
 
-<img src='skills/jupyter48.png'> <img src='skills/vscode48.png'> <img src='skills/pandas48.png'> <img src='skills/numpy48.png'> <img src='skills/python48.png'> <img src='skills/github48.png'> <img src='skills/git48.png'> <img src='skills/slack48.png'> <img src='skills/excel48.png'>
+<img src='skills/jupyter48.png'> <img src='skills/vscode48.png'> <img src='skills/pandas48.png'> <img src='skills/numpy48.png'> <img src='skills/python48.png'> <img src='skills/github48.png'> <img src='skills/git48.png'> <img src='skills/slack48.png'> <img src='skills/excel48.png'> <img src='skills/gcp48.png'>
 
-### **Used on a Regular Basis:**
+### ⌛️ **Used Regularly:**
 
-<img src='skills/scikit-learn48.png'> <img src='skills/colab48.png'> <img src='skills/keras48.png'> <img src='skills/tensorflow48.png'> <img src='skills/tableau48.png'> <img src='skills/matplotlib48.png'> <img src='skills/seaborn48.png'> <img src='skills/mysql48.png'> <img src='skills/sql48.png'> <img src='skills/postgresql48.png'> <img src='skills/geopandas48.png'>
+<img src='skills/r48.png'> <img src='skills/scikit-learn48.png'> <img src='skills/colab48.png'> <img src='skills/keras48.png'> <img src='skills/tensorflow48.png'> <img src='skills/tableau48.png'> <img src='skills/matplotlib48.png'> <img src='skills/seaborn48.png'> <img src='skills/mysql48.png'> <img src='skills/sql48.png'> <img src='skills/postgresql48.png'> <img src='skills/geopandas48.png'> <img src='skills/arcgis48.png'> <img src='skills/qgis48.png'> 
 
-### **Used on Occasional Basis:**
+### 🕯 **Used Occasionally:**
 
 <img src='skills/opencv48.png'> <img src='skills/nltk48.png'> <img src='skills/html48.png'> <img src='skills/css48.png'> <img src='skills/heroku48.png'> <img src='skills/flask48.png'> <img src='skills/scipy48.png'> <img src='skills/celery48.png'> <img src='skills/redis48.png'> 
+
+## Thank you for visiting my page!
+
