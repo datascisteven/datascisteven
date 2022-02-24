@@ -2,36 +2,38 @@
 
 ## 👋 **Thanks for visiting my Github page.**
 
-I am currently taking a course on Spatial Data Analysis at SUNY Stony Brook and learning R!  I am planning on starting my Master's part-time in the fall.
+📚 I am currently taking a course on Spatial Data Analysis at SUNY Stony Brook and learning R!  
 
-I am working as an intern at StartOut continuing work in support of LGBTQ+ entrepreneurship on the visualization board in preparation for the new iteration of the dashboard, which will start including information on minorities.
+🎓 I am planning on starting my Master's part-time in the fall.
+
+🏳️‍🌈 I am working as an intern at StartOut continuing work in support of LGBTQ+ entrepreneurship on the visualization board in preparation for the new iteration of the dashboard, which will start including information on minorities.
 
 
-## **Recent Projects:**
+## 📆 **Recent Projects:**
 
-1.  **Omdena Machine Learning Intern:** Object Detection and Image Segmentation on Satellite Images of Schools in Sudan
+1.  🛰 **Omdena Machine Learning Intern:** Object Detection and Image Segmentation on Satellite Images of Schools in Sudan
 
-2.  [**Essteem Equalithon:**](https://bit.ly/SPEII) Inclusion Impact Index Dashboard developed by StartOut and Socos Lab
+2.  🕺 [**Essteem Equalithon:**](https://bit.ly/SPEII) Inclusion Impact Index Dashboard developed by StartOut and Socos Lab
 	- _Technologies:_  Python, Numpy, Pandas, Tableau
 	- _Status:_  Developed timeline feature for dashboard and proposed some visualization changes
 	- _Future Plans:_  Continuing work at internship with StartOut
 
-3.  [**DataKind DataDive:**](https://bit.ly/DataKind_CDAC) Broadband Access Project with CDAC at UChicago
+3.  📡 [**DataKind DataDive:**](https://bit.ly/DataKind_CDAC) Broadband Access Project with CDAC at UChicago
 	- _Technologies:_   Python, Numpy, Pandas, Geopandas, Tableau, SciPy, Scikit-learn, Matplotlib
 	- _Status:_  Contributed Tableau visualizations for EDA and pipeline for data processing
 	- _Future Plans:_  None
 
-5.  [**Melanoma Image Classification with Flask Implementation**](https://bit.ly/Melanoma-Detector)
+5.  🧛🏽‍♂️  [**Melanoma Image Classification with Flask Implementation**](https://bit.ly/Melanoma-Detector)
 	- _Technologies:_  Python, Numpy, Pandas, Tensorflow, Keras, Scikit-learn, OpenCV, Scikit-image, Matplotlib, Seaborn
 	- _Status:_  Flask App deployed on local development, ResNet50 model at 91% and 80% holdout accuracy
 	- _Future Plans:_  Conduct modeling process using PyTorch instead of Tensorflow and develop mobile app using Flutter
 
-6.  [**Hate Tweet Detection with Flask Implementation**](https://bit.ly/Hate-Tweet-Detector)
+6.  🐥 [**Hate Tweet Detection with Flask Implementation**](https://bit.ly/Hate-Tweet-Detector)
 	- _Technologies:_   Python, Numpy, Pandas, Tensorflow, Keras, Scikit-learn, NLTK, Matplotlib, Seaborn
 	- _Status:_  Machine Learning Model deployed on Heroku
 	- _Future Plans:_  Explore additional NLP tools like SpaCy
 
-7.  [**Credit Card Default Prediction and Customer Segmentation**](https://bit.ly/CC-Default-Segmentation)
+7.  💳 [**Credit Card Default Prediction and Customer Segmentation**](https://bit.ly/CC-Default-Segmentation)
 	- _Technologies:_   Python, Numpy, Pandas, Scikit-learn, SciPy, Tableau, Plotly
 	- _Status:_  Developed classification model with 86% accuracy
 	- _Future Plans:_  Finish customer segmentation model
