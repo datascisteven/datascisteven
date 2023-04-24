@@ -2,14 +2,10 @@
 
 ## 👋 **Thanks for visiting my Github page.**
 
-📚 I am currently taking a course on Spatial Data Analysis at SUNY Stony Brook and learning R!  
-
-🎓 I am planning on starting my Master's part-time in the fall.
-
-🏳️‍🌈 I am working as an intern at StartOut continuing work in support of LGBTQ+ entrepreneurship on the visualization board in preparation for the new iteration of the dashboard, which will start including information on minorities.
+🏳️‍🌈 I have been working on developing the StartOut Pride Economic Impact Index (SPEII) for making policy recommmendations on the state and metro level.  am working as an intern at StartOut continuing work in support of LGBTQ+ entrepreneurship on the visualization board in preparation for the new iteration of the dashboard, which will start including information on minorities.
 
 
-## 📆 **Recent Projects:**
+## 📆 **Recent Volunteer Projects:**
 
 1.  🛰 **Omdena Machine Learning Intern:** Object Detection and Image Segmentation on Satellite Images of Schools in Sudan
 
@@ -53,7 +49,7 @@
 
 ## 📬 **Contact Info:**
 
-[![Email Badge](https://img.shields.io/static/v1?label=Email&message=datascisteven@gmail.com&color=8b0000&style=for-the-badge&logo=GMail&logoColor=white&logoWidth=30)](mailto:datascisteven@gmail.com)
+[![Email Badge](https://img.shields.io/static/v1?label=Email&message=steven.yan@startout.org &color=8b0000&style=for-the-badge&logo=GMail&logoColor=white&logoWidth=30)](mailto:steven.yan@startout.org)
 
 [![Github Badge](https://img.shields.io/static/v1?label=GitHub&message=@datascisteven&color=9966CC&style=for-the-badge&logo=GitHub&logoWidth=30)](https://bit.ly/stevens_github)
 
@@ -68,7 +64,7 @@
                     
 ### ⏰ **Used Daily:**
 
-<img src='skills/jupyter48.png'> <img src='skills/vscode48.png'> <img src='skills/pandas48.png'> <img src='skills/numpy48.png'> <img src='skills/python48.png'> <img src='skills/github48.png'> <img src='skills/git48.png'> <img src='skills/slack48.png'> <img src='skills/excel48.png'> <img src='skills/gcp48.png'>
+<img src='skills/jupyter48.png'> <img src='skills/vscode48.png'> <img src='skills/pandas48.png'> <img src='skills/numpy48.png'> <img src='skills/python48.png'> <img src='skills/github48.png'> <img src='skills/git48.png'> <img src='skills/slack48.png'> <img src='skills/excel48.png'> <img src='skills/gcp48.png'> 
 
 ### ⌛️ **Used Regularly:**
 
