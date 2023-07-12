@@ -7,20 +7,20 @@ My desire to have positive societal impact, as well as being of service and cont
 Building on over a decade of experience in education management, my recent experience at StartOut working with entrepreneurial data has confirmed my passion for gaining insight from raw data and finding impactful solutions for problems, especially those for social good.
 
 
-## 📆 **Volunteer Projects:**
+## **Previous Volunteer Projects:**
 
-2.  🛰 **Omdena Machine Learning Intern:** Object Detection and Image Segmentation on Satellite Images of Schools in Sudan
+1.  🛰 **Omdena Machine Learning Intern:** Object Detection and Image Segmentation on Satellite Images of Schools in Sudan
 
-3.  🕺 [**Essteem Equalithon:**](https://bit.ly/StartOut-Dashboard) Inclusion Impact Index Dashboard developed by StartOut and Socos Lab
+2.  🕺 [**Essteem Equalithon:**](https://bit.ly/StartOut-Dashboard) Inclusion Impact Index Dashboard developed by StartOut and Socos Lab
 	- _Technologies:_  Python, Numpy, Pandas, Tableau
 	- _Status:_  Developed timeline feature for dashboard and proposed some visualization changes
 
-4.  📡 [**DataKind DataDive:**](https://bit.ly/DataKind-CDAC) Broadband Access Project with CDAC at UChicago
+3.  📡 [**DataKind DataDive:**](https://bit.ly/DataKind-CDAC) Broadband Access Project with CDAC at UChicago
 	- _Technologies:_   Python, Numpy, Pandas, Geopandas, Tableau, SciPy, Scikit-learn, Matplotlib
 	- _Status:_  Contributed Tableau visualizations for EDA and pipeline for data processing
 
 
-## 📬 **Contact Info:**
+## **Contact Info:**
 
 [![Email Badge](https://img.shields.io/static/v1?label=Email&message=datascisteven@gmail.com&color=8b0000&style=for-the-badge&logo=GMail&logoColor=white&logoWidth=30)](mailto:datascisteven@gmail.com)
 
@@ -33,10 +33,11 @@ Building on over a decade of experience in education management, my recent exper
 [![Portfolio Badge](https://img.shields.io/static/v1?label=Website&message=datascisteven.github.io&color=FF6600&style=for-the-badge&logo=GoogleChrome&logoColor=white&logoWidth=30)](https://bit.ly/stevens_portfolio)
 
 
-## 🖥 **Technology Stack:**
+## **Technology Stack:**
                     
 <img src='skills/jupyter48.png'> <img src='skills/vscode48.png'> <img src='skills/pandas48.png'> <img src='skills/numpy48.png'> <img src='skills/python48.png'> <img src='skills/github48.png'> <img src='skills/git48.png'> <img src='skills/slack48.png'> <img src='skills/excel48.png'> <img src='skills/gcp48.png'> 
 <img src='skills/scikit-learn48.png'> <img src='skills/colab48.png'> <img src='skills/keras48.png'> <img src='skills/tensorflow48.png'> <img src='skills/tableau48.png'> <img src='skills/matplotlib48.png'> <img src='skills/seaborn48.png'> <img src='skills/mysql48.png'> <img src='skills/scipy48.png'>
 
-## Thank you for visiting my page!
+
+**Thank you for visiting my page!**
 
