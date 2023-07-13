@@ -4,7 +4,14 @@
 
 My desire to have positive societal impact, as well as being of service and contributing back to my communities, has been the one constant in my professional and extracurricular endeavors from customer service, teaching and training, program administration and content writing to now data science. 
 
-Building on over a decade of experience in education management, my recent experience at StartOut working with entrepreneurial data has confirmed my passion for gaining insight from raw data and finding impactful solutions for problems, especially those for social good.
+Building on over a decade of experience in education management, my recent experience as a Data Scientist at StartOut working with entrepreneurial data from Crunchbase, Pitchbook, and StartOut with the goal of equalizing access to resources for LGBTQ+ entrepreneurs has confirmed my passion for gaining insight from raw data and finding impactful solutions for problems, especially those for social good.
+
+Check out the project:
+[**StartOut Index**](https://www.startout.org/index)
+
+![image](https://github.com/datascisteven/datascisteven/assets/591592/b9c0f738-f453-4515-ae28-5498f6caeb4b)
+
+
 
 
 ## **Previous Volunteer Projects:**
