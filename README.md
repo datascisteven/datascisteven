@@ -2,11 +2,15 @@
 
 ## 👋 **Thanks for visiting my Github page.**
 
-My desire to have positive societal impact, as well as being of service and contributing back to my communities, has been the one constant in my professional and extracurricular endeavors from customer service, teaching and training, program administration and content writing to now data science. 
+Driven by a deep-rooted desire to have a positive societal impact and contribute back to my communities, I have consistently pursued opportunities to be of service to others and foster a sense of community. With over a decade of experience in education management, my recent role as a Data Scientist at StartOut has reinforced my passion for leveraging data to drive impactful solutions for social good. In my diverse range of professional and extracurricular endeavors, I have actively engaged in roles such as Big Brother at the Incarnation Children's Center, Community Educator for GMHC, and Nominating Committee Chair for the UChicago LGBT Alumni Network, allowing me to collaborate, network, and contribute to meaningful causes. 
 
-Building on over a decade of experience in education management, my recent experience as a Data Scientist at StartOut working with entrepreneurial data from Crunchbase, Pitchbook, and StartOut with the goal of equalizing access to resources for LGBTQ+ entrepreneurs has confirmed my passion for gaining insight from raw data and finding impactful solutions for problems, especially those for social good.
+Now transitioning into the field of data science, I bring a rich background encompassing management, classroom instruction, training and development, program administration, career advising, and content writing and editing. My work in developing practice content for the MCAT has honed my written communication skills, while delivering lectures and working with students one-on-one has strengthened my verbal communication abilities. Moreover, my experience working with premedical students from underrepresented populations, combined with my own immigrant upbringing, has provided me with cultural competence and insight into effectively interacting with diverse cultures.
 
-Check out the project:
+During my time at StartOut, I contributed to analyzing entrepreneurial data on high-growth companies and founders, utilizing my Python coding skills to create code for automating data collection and wrangling and running machine learning models to deliver insights as aligned with Dr. Vivienne Ming's vision. This experience further solidified my practical knowledge of gaining insights from raw data to address social issues.  With unwavering passion and a comprehensive skill set, I am eager to apply my expertise to make a lasting impact in the field of data science. I am committed to utilizing data-driven solutions to address complex challenges and contribute to the greater good.
+
+
+## **Check out the project at the StartOut website:**
+
 [**StartOut Index**](https://www.startout.org/index)
 
 ![image](https://github.com/datascisteven/datascisteven/assets/591592/b9c0f738-f453-4515-ae28-5498f6caeb4b)
@@ -14,7 +18,7 @@ Check out the project:
 
 
 
-## **Previous Volunteer Projects:**
+## **My Volunteer Projects:**
 
 1.  🛰 **Omdena Machine Learning Intern:** Object Detection and Image Segmentation on Satellite Images of Schools in Sudan
 
