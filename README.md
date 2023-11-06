@@ -2,13 +2,11 @@
 
 ## 👋 **Thanks for visiting my Github page.**
 
-Driven by a deep-rooted desire to have a positive societal impact and contribute back to my communities, I have consistently pursued opportunities to be of service to others and foster a sense of community. With over a decade of experience in education management, my recent role as a Data Scientist at StartOut has reinforced my passion for leveraging data to drive impactful solutions for social good. In my diverse range of professional and extracurricular endeavors, I have actively engaged in roles such as Big Brother at the Incarnation Children's Center, Community Educator for GMHC, and Nominating Committee Chair for the UChicago LGBT Alumni Network, allowing me to collaborate, network, and contribute to meaningful causes. 
+Driven by an unwavering commitment to effect positive societal change, I have consistently sought opportunities that promote community engagement and provide avenues to give back to the community. Transitioning from a decade-long career in education management, I've cultivated a growing passion for leveraging data to create impactful solutions as an early career data scientist. At StartOut, I gathered and analyzed both policy (LGBTQ+ legislation and fiscal) and non-policy (demographic, geographic, social) data, integrating them with indicators of high-growth entrepreneurship to train machine learning models. This enabled me to provide actionable insights to stakeholders and policy recommendations to decision-makers. This experience has honed my practical skills in extracting valuable insights from raw data to address pressing social issues.
 
-Now transitioning into the field of data science, I bring a rich background encompassing management, classroom instruction, training and development, program administration, career advising, and content writing and editing. My work in developing practice content for the MCAT has honed my written communication skills, while delivering lectures and working with students one-on-one has strengthened my verbal communication abilities. Moreover, my experience working with premedical students from underrepresented populations, combined with my own immigrant upbringing, has provided me with cultural competence and insight into effectively interacting with diverse cultures.
+As a career changer, my background encompasses diverse roles including management, classroom instruction, content writing, training and development, program administration, and career advising. Crafting content and conducting MCAT bootcamps has refined my written and verbal communication skills, enabling me to convey technical concepts clearly and fluently to both technical and non-technical audiences. My collaboration on machine learning models with data scientists around the world at Omdena, coupled with my prior dedication to teaching students from underrepresented backgrounds, has instilled in me cultural humility and competence while allowing me to contribute to meaningful causes.
 
-During my time at StartOut, I contributed to analyzing entrepreneurial data on high-growth companies and founders, utilizing my Python coding skills to create code for automating data collection and wrangling and machine learning models to deliver insights as aligned with Dr. Vivienne Ming's vision. This experience further solidified my practical knowledge of gaining insights from raw data to address social issues.  With unwavering passion and a comprehensive skill set, I am eager to apply my expertise to make a lasting impact in the field of data science. 
-
-I am committed to utilizing data-driven solutions to address complex challenges and contribute to the greater good.
+Fueled by a passion for social good and equipped with a versatile skill set, I am committed to deploying data-driven solutions to address complex challenges within your organization and the broader field of data science.
 
 
 ## **Check out the project at the StartOut website:**
@@ -18,18 +16,50 @@ I am committed to utilizing data-driven solutions to address complex challenges 
 ![image](https://github.com/datascisteven/datascisteven/assets/591592/b9c0f738-f453-4515-ae28-5498f6caeb4b)
 
 
-## **My Volunteer Projects:**
+## **Extracurricular Projects:**
 
-1.  🛰 **Omdena Machine Learning Intern:** Object Detection and Image Segmentation on Satellite Images of Schools in Sudan
+### 1.  🦠 [**Omdena Local Chapter Challenge:**](https://github.com/OmdenaAI/myanmar-chapter-chest-x-rays) Identifying Diseases in Chest X-Rays & COVID-19 Detection
+   	
+- _Role_:  Task Lead
+- _Description_:  I contributed to the Omdena Myanmar chapter as the Tuberculosis team lead for their project to democratize access to resources for the following respiratory lung disorders: tuberculosis, lung cancer, pneumonia, and COVID. Four teams worked alongside each other in building models for each disease for 8 weeks, and within each team, we selected the best model for deployment. We had a team member who was experienced in Streamlit that developed a webapp for the model.
 
-2.  🕺 [**Essteem Equalithon:**](https://bit.ly/StartOut-Dashboard) Inclusion Impact Index Dashboard developed by StartOut and Socos Lab
-	- _Technologies:_  Python, Numpy, Pandas, Tableau
-	- _Status:_  Developed timeline feature for dashboard and proposed some visualization changes
+### 2.  🦠 [**Omdena Local Chapter Challenge:**]() COVID-19 Detection from Chest X-Ray Images using Deep Learning
 
-3.  📡 [**DataKind DataDive:**](https://bit.ly/DataKind-CDAC) Broadband Access Project with CDAC at UChicago
-	- _Technologies:_   Python, Numpy, Pandas, Geopandas, Tableau, SciPy, Scikit-learn, Matplotlib
-	- _Status:_  Contributed Tableau visualizations for EDA and pipeline for data processing
+- _Role_:  Task Lead
+- _Description_:  This was an offshoot of the original project above because there was not enough participation in the original group for COVID.  I worked with the members in this new challenge to provide what EDA and data preprocessing I had already completed, as well as the dataset.  I worked with and supported the group to ensure the goals and deadlines were met, but did not continue to finish the project.
+ 
+### 3.  🛰️ [**Omdena AI Challenge:**]() Developing an AI model to Identify School Locations in Sudan using Satellite Imagery
+ 
+- _Role_:  Lead ML Engineer
+- _Description_: We collaborated in this OmdenaLore AI challenge with the Giga team, a joint initiative between UNICEF and ITU for two months. We built several Computer Vision and Deep Learning models to 	detect school locations in Sudan using Satellite Imagery. We did an extensive and thorough analysis of the data and built multiple models using datasets provided by the Giga team to solve this problem.
 
+### 4.  🏳️‍🌈 [**Essteem Equalithon:**](https://bit.ly/StartOut-Dashboard) Inclusion Impact Index Dashboard developed by StartOut and Socos Lab
+
+- _Technologies:_  Python, Numpy, Pandas, Tableau
+- _Status:_  Developed timeline feature for dashboard and proposed some visualization changes
+
+### 5.  💻 [**DataKind DataDive:**](https://bit.ly/DataKind-CDAC) Broadband Access Project with CDAC at UChicago
+
+- _Technologies:_   Python, Numpy, Pandas, Geopandas, Tableau, SciPy, Scikit-learn, Matplotlib
+- _Status:_  Contributed Tableau visualizations for EDA and pipeline for data processing
+
+
+## **Certifications:**
+
+### DeepLearning.AI Tensorflow Developer Certificate:  [🥇](https://www.coursera.org/account/accomplishments/specialization/certificate/LLBKMZAKDCJ2)
+
+1. Introduction to Tensorflow for Artificial Intelligence, Machine Learning, and Deep Learning: [🎖️](https://www.coursera.org/account/accomplishments/certificate/4RG3A5N86YG6)
+2. Convolutional Neural Networks in Tensorflow: [🎖️](https://www.coursera.org/account/accomplishments/certificate/GSERKCRKLS9P)
+3. Natural Language Processing in Tensorflow: [🎖️](https://www.coursera.org/account/accomplishments/certificate/63M7EDZTYE6J)
+4. Sequences, Time Series and Prediction: [🎖️](https://www.coursera.org/account/accomplishments/certificate/84ZAQKM982PQ)
+
+### DeepLearning.AI Deep Learning Specialization:  [🥇]()
+
+1.  Neural Networks and Deep Learning: [🎖️](https://www.coursera.org/account/accomplishments/certificate/4PJL2G3CPHGY)
+2.  Improving Deep Neural Networks: Hyperparameter Tuning, Regularization, and Optimization: [🎖️](https://www.coursera.org/account/accomplishments/certificate/TVJ8R4XDLGUC)
+3.  tructuring Machine Learning Projects: [🎖️](https://www.coursera.org/account/accomplishments/certificate/4VJGVU7SB4PN)
+4.  Convolutional Neural Networks: [🎖️](https://www.coursera.org/account/accomplishments/certificate/PDH29KCJ38LS)
+5.  Sequence Models: [🎖️]()
 
 ## **Contact Info:**
 
