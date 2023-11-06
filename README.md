@@ -61,6 +61,7 @@ Fueled by a passion for social good and equipped with a versatile skill set, I a
 4.  Convolutional Neural Networks: [🎖️](https://www.coursera.org/account/accomplishments/certificate/PDH29KCJ38LS)
 5.  Sequence Models: [🎖️]()
 
+
 ## **Contact Info:**
 
 [![Email Badge](https://img.shields.io/static/v1?label=Email&message=datascisteven@gmail.com&color=8b0000&style=for-the-badge&logo=GMail&logoColor=white&logoWidth=30)](mailto:datascisteven@gmail.com)
